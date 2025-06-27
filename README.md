@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Dmytro Prymenko
 
+![](https://komarev.com/ghpvc/?username=avngrrd)
 - 📫 How to reach me: https://t.me/aaavantgarde, dmytroprymenko@gmail.com
 
 <!--
