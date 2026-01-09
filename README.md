@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Dmytro Prymenko
 
 ![](https://komarev.com/ghpvc/?username=avngrrd)
-- 📫 How to reach me: https://t.me/stethebeatifulmartyr1stattempt, dmytroprymenko@gmail.com
+- 📫 How to reach me: 
+https://t.me/stethebeatifulmartyr1stattempt
+dmytroprymenko@gmail.com
 
 <!--
 **avngrrd/avngrrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
